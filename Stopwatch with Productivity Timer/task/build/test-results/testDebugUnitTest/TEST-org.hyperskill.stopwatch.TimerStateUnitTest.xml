@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.TimerStateUnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-07-19T10:15:39" hostname="LEVASUSDT505" time="6.966">
+  <properties/>
+  <testcase name="testShouldStopTimerAndResetCountOnResetButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.394"/>
+  <testcase name="testShouldCheckTimerInitialValue" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="0.086"/>
+  <testcase name="testShouldCountOneSecondAfterOneSecondOnStartButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.186"/>
+  <testcase name="testShouldContinueCountOnPressingStartButtonAgain" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="2.317"/>
+  <testcase name="testShouldTakeOneSecondToCountOneSecondOnStartButtonClick" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="0.376"/>
+  <testcase name="testShouldIgnorePressingResetButtonAgain" classname="org.hyperskill.stopwatch.TimerStateUnitTest" time="1.607"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

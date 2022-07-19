@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.ExampleUnitTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-07-19T10:15:19" hostname="LEVASUSDT505" time="0.855">
+  <properties/>
+  <testcase name="testShouldCheckTextViewExist" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.213"/>
+  <testcase name="testShouldCheckResetButtonExist" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.16"/>
+  <testcase name="testShouldCheckResetButtonText" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.159"/>
+  <testcase name="testShouldCheckStartButtonText" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.194"/>
+  <testcase name="testShouldCheckStartButtonExist" classname="org.hyperskill.stopwatch.ExampleUnitTest" time="0.129"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

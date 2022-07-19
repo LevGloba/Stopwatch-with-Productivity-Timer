@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.stopwatch.NotificationUnitTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-19T10:15:10" hostname="LEVASUSDT505" time="8.721">
+  <properties/>
+  <testcase name="testShouldCheckNotificationVisibilityOnTimeExceed" classname="org.hyperskill.stopwatch.NotificationUnitTest" time="8.721"/>
+  <system-out><![CDATA[Called loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+resources.arsc in APK 'C:\Users\globa\.m2\repository\org\robolectric\android-all-instrumented\10-robolectric-5803371-i3\android-all-instrumented-10-robolectric-5803371-i3.jar' is compressed.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
